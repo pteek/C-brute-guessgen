@@ -10,3 +10,5 @@ Include string.h or write your own strlen and strchr functions.
 No checking of any type. Make sure all pointers are valid and buffers plenty.
 
 I didn't have thread saftety problems. YMMV.
+
+Improvements welcome! Please fork.
