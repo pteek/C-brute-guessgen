@@ -21,7 +21,6 @@ char* generator(char *curr, char *printable){
 			}
 			*itr = printable[0];
 			itr++;
-			continue;
 		}
 		else{
 			*itr = *(strchr(printable,*itr)+1);
